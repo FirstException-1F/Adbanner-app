@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "image": "https://images.unsplash.com/photo-1721908919503-a8a1106bec3a?q=80&w=1530&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "title": "Unleash Your Creativity",
+    "description": "Dive into a world of endless possibilities with our creative tools and resources.",
+    "button": "Learn More",
+    "clipPath": "polygon(0 0, 100% 0, 100% 100%, 0 100%)",
+    "clipImage": "https://images.unsplash.com/photo-1721908919503-a8a1106bec3a?q=80&w=1530&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id": 2,
+    "image": "https://plus.unsplash.com/premium_photo-1721858125140-57077cfc8b1a?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "title": "Explore New Horizons",
+    "description": "Join us on a journey to explore new and exciting horizons around the globe.",
+    "button": "Read More",
+    "clipPath": "polygon(0 0, 100% 0, 100% 100%, 0 100%)",
+    "clipImage": "https://plus.unsplash.com/premium_photo-1721858125140-57077cfc8b1a?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id": 3,
+    "image": "https://images.unsplash.com/photo-1721908919500-d33fa8d365d8?q=80&w=1527&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "title": "Discover Untold Stories",
+    "description": "Explore the narratives that shape our world and uncover hidden stories.",
+    "button": "Discover",
+    "clipPath": "polygon(0 0, 100% 0, 100% 100%, 0 100%)",
+    "clipImage": "https://images.unsplash.com/photo-1721908919500-d33fa8d365d8?q=80&w=1527&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id": 4,
+    "image": "https://images.unsplash.com/photo-1722108990141-27e841cd709a?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "title": "Adventure Awaits",
+    "description": "Gear up for an adventure of a lifetime with our exclusive travel packages.",
+    "button": "Explore",
+    "clipPath": "polygon(0 0, 100% 0, 100% 100%, 0 100%)",
+    "clipImage": "https://images.unsplash.com/photo-1722108990141-27e841cd709a?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id": 5,
+    "image": "https://images.unsplash.com/photo-1721974337801-f789a76057fa?q=80&w=1527&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "title": "Unlock Your Potential",
+    "description": "Discover resources and tools designed to help you unlock your full potential.",
+    "button": "Find Out",
+    "clipPath": "polygon(0 0, 100% 0, 100% 100%, 0 100%)",
+    "clipImage": "https://images.unsplash.com/photo-1721974337801-f789a76057fa?q=80&w=1527&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id": 6,
+    "image": "https://images.unsplash.com/photo-1722353129214-df9638aab876?q=80&w=1484&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "title": "Embrace the Unknown",
+    "description": "Step out of your comfort zone and embrace the unknown with open arms.",
+    "button": "Check It Out",
+    "clipPath": "polygon(0 0, 100% 0, 100% 100%, 0 100%)",
+    "clipImage": "https://images.unsplash.com/photo-1722353129214-df9638aab876?q=80&w=1484&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id": 7,
+    "image": "https://images.unsplash.com/photo-1722218530834-0f440f4db181?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "title": "Journey Beyond Limits",
+    "description": "Push the boundaries and journey beyond limits with our unique experiences.",
+    "button": "See More",
+    "clipPath": "polygon(0 0, 100% 0, 100% 100%, 0 100%)",
+    "clipImage": "https://images.unsplash.com/photo-1722218530834-0f440f4db181?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id": 8,
+    "image": "https://images.unsplash.com/photo-1722218530816-0fa912f1d216?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "title": "Innovate and Create",
+    "description": "Foster innovation and creativity with our tools and collaborative environment.",
+    "button": "Get Started",
+    "clipPath": "polygon(0 0, 100% 0, 100% 100%, 0 100%)",
+    "clipImage": "https://images.unsplash.com/photo-1722218530816-0fa912f1d216?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id": 9,
+    "image": "https://images.unsplash.com/photo-1722218530021-aa1dfba50fa5?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "title": "Inspire the Future",
+    "description": "Join us in inspiring the future with groundbreaking ideas and solutions.",
+    "button": "Inspire Now",
+    "clipPath": "polygon(0 0, 100% 0, 100% 100%, 0 100%)",
+    "clipImage": "https://images.unsplash.com/photo-1722218530021-aa1dfba50fa5?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  }
+]
